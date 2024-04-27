@@ -8,3 +8,7 @@ Frameworks de segurança da informação
     MITRE ATT & CK® 
     Security ScoreCard
     OWASP TOP 10
+
+O arquivo Nist-Framework.xlsx é a Base do Nist e está disponivel para download e Alteração conforme nescessidade...
+
+Logo Falaremos Sobre Certificação NIST!
